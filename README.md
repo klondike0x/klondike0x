@@ -5,11 +5,11 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий программист<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с написания простого приложения на C#, после чего я плавно пришел к созданиям сайтов на языке PHP, и начал обучаться по курсам HTML - academy, в феврале 2023 я прошел интенсив от школы 21, создал телеграм-канал посвященный моему пути в web-dev [![Telegram Badge](https://img.shields.io/badge/-klondike0x-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/klondike0x)
+Я начинающий программист<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с написания простого приложения на C#, после чего я плавно пришел к созданиям сайтов на языке PHP, и начал обучаться по видео роликам на ютуб-канале **XrucT**, в феврале 2023 я прошел интенсив от школы 21.
 
 - :zap: Моя цель - стать успешным IT программистом.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-klondike0x-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/klondike0x) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)]( )
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-klondike0x-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/klondike0x)
 
 ---
 
