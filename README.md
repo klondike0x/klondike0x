@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с написания бота под NFT-игру на python, после чего я плавно пришел к frontend разработке, и начал обучаться по курсам HTML - academy, в феврале 2023 я прошел интенсив от школы 21, создал телеграм-канал посвященный моему пути в web-dev [![Telegram Badge](https://img.shields.io/badge/-troff_webdev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/troff_webdev)
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с написания бота под NFT-игру на python, после чего я плавно пришел к frontend разработке, и начал обучаться по курсам HTML - academy, в феврале 2023 я прошел интенсив от школы 21, создал телеграм-канал посвященный моему пути в web-dev [![Telegram Badge](https://img.shields.io/badge/-troff_webdev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/klondike0x)
 
 - :zap: Моя цель - работать в IT через полгода.
 
