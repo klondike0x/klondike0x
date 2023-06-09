@@ -61,7 +61,7 @@
 
 ### 💻 Codewars: 
 
-[![codewars](https://www.codewars.com/users/klondike0x/badges/large)]( )
+[![codewars](https://www.codewars.com/users/klondike0x/badges/large)](https://www.codewars.com/users/klondike0x)
 
 ### ⚙️ GitHub статистика:
 
