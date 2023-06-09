@@ -1,5 +1,5 @@
 
-# Привет, меня зовут Ваня!
+# Привет, меня зовут Даниил!
 
 ---
 
@@ -9,25 +9,19 @@
 
 - :zap: Моя цель - работать в IT через полгода.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i1_trofimov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i1_trofimov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:troff.webdev@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-i1_trofimov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/klondike0x) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)]( )
 
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/impudens/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/i1_trofimov" target="_blank">
+    <a href="https://t.me/klondike0x" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://vk.com/i1_trofimov](https://vk.com/klondike0x" target="_blank">
+    <a href="https://vk.com/klondike0x" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-    <a href="https://dzen.ru/troff_webdev" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
-    </a>
+    </a>    
   </div>
 
 ---
@@ -69,7 +63,7 @@
 
 ### 💻 Codewars: 
 
-[![codewars](https://www.codewars.com/users/impudens/badges/large)](https://www.codewars.com/users/impudens)
+[![codewars](https://www.codewars.com/users/impudens/badges/large)]( )
 
 ### ⚙️ GitHub статистика:
 
