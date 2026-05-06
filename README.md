@@ -29,7 +29,7 @@
 | Project | Description | Stack | Release | Downloads |
 |---------|-------------|-------|---------|-----------|
 | [**🔷 FluxRoute**](https://github.com/klondike0x/FluxRoute) | Windows GUI wrapper for Flowseal with profile orchestrator and auto-update | C# · WPF · .NET 10 | ![](https://img.shields.io/github/v/release/klondike0x/FluxRoute?style=flat-square&color=00D9FF) | ![](https://img.shields.io/github/downloads/klondike0x/FluxRoute/total?style=flat-square&color=00D9FF) |
-[**🚀 ChatGPT Unlimited**](https://github.com/klondike0x/ChatGPT-Unlimited) | Enhances ChatGPT UI and bypasses common frontend restrictions for a smoother experience. | JavaScript | ![](https://img.shields.io/badge/version-2.0.0-FFD700?style=flat-square) | ![](https://img.shields.io/badge/downloads-0-FFD700?style=flat-square) |
+[**🚀 ChatGPT Unlimited**](https://github.com/klondike0x/ChatGPT-Unlimited) | Enhances ChatGPT UI and bypasses common frontend restrictions for a smoother experience. | JavaScript | ![](https://img.shields.io/badge/version-2.0.1-FFD700?style=flat-square) | ![](https://img.shields.io/badge/downloads-0-FFD700?style=flat-square) |
 | [**🔐 PasswordManager**](https://github.com/klondike0x/PasswordManager) | Secure password generator and storage with entropy analysis | C# · WinForms · .NET | ![](https://img.shields.io/github/v/release/klondike0x/PasswordManager?style=flat-square&color=7C3AED) | ![](https://img.shields.io/github/downloads/klondike0x/PasswordManager/total?style=flat-square&color=7C3AED) |
 
 </div>
