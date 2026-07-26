@@ -28,15 +28,23 @@
 
 | Project | Description | Stack | Release | Downloads |
 |---------|-------------|-------|---------|-----------|
-| [**🔷 FluxRoute**](https://github.com/klondike0x/FluxRoute) | Windows GUI wrapper for Flowseal with profile orchestrator and auto-update | C# · WPF · .NET 10 | ![](https://img.shields.io/github/v/release/klondike0x/FluxRoute?style=flat-square&color=00D9FF) | ![](https://img.shields.io/github/downloads/klondike0x/FluxRoute/total?style=flat-square&color=00D9FF) |
-| [**⚡ zapret2-youtube-discord**](https://github.com/klondike0x/zapret2-youtube-discord) | Portable Windows toolkit with ready-to-use BAT profiles powered by the official Zapret2 engine | Lua · BAT · Zapret2 · WinDivert | ![](https://img.shields.io/github/v/release/klondike0x/zapret2-youtube-discord?style=flat-square&color=00D9FF) | ![](https://img.shields.io/github/downloads/klondike0x/zapret2-youtube-discord/total?style=flat-square&color=00D9FF) |
+| [**🔷 FluxRoute**](https://github.com/klondike0x/FluxRoute) | Windows desktop app with an adaptive AI orchestrator for Flowseal strategies, automatic tuning and network-aware profile selection | C# · WPF · .NET 10 | ![](https://img.shields.io/github/v/release/klondike0x/FluxRoute?style=flat-square&color=00D9FF) | [![](https://img.shields.io/badge/Download-Latest-00D9FF?style=flat-square)](https://github.com/klondike0x/FluxRoute/releases/latest) ![](https://img.shields.io/github/downloads/klondike0x/FluxRoute/total?style=flat-square&color=00D9FF) |
+| [**⚡ zapret2-youtube-discord**](https://github.com/klondike0x/zapret2-youtube-discord) | Portable Windows toolkit with ready-to-use BAT profiles powered by the official Zapret2 engine | Lua · BAT · Zapret2 · WinDivert | ![](https://img.shields.io/github/v/release/klondike0x/zapret2-youtube-discord?style=flat-square&color=00D9FF) | [![](https://img.shields.io/badge/Download-Latest-00D9FF?style=flat-square)](https://github.com/klondike0x/zapret2-youtube-discord/releases/latest) ![](https://img.shields.io/github/downloads/klondike0x/zapret2-youtube-discord/total?style=flat-square&color=00D9FF) |
 | [**🌐 mtp4tg-proxies**](https://github.com/klondike0x/mtp4tg-proxies) | Auto-updated MTProto proxies aggregator (SoliSpirit + @mtp4tg) with GitHub Pages UI | Python · GitHub Actions · HTML | ![](https://img.shields.io/github/actions/workflow/status/klondike0x/mtp4tg-proxies/update.yml?style=flat-square&label=Status&color=00D9FF) | ![](https://img.shields.io/github/stars/klondike0x/mtp4tg-proxies?style=flat-square&label=Stars&color=00D9FF) |
-| [**🚀 ChatGPT Unlimited**](https://github.com/klondike0x/ChatGPT-Unlimited) | Enhances ChatGPT UI and bypasses common frontend restrictions for a smoother experience. | JavaScript | ![](https://img.shields.io/badge/version-2.0.1-FFD700?style=flat-square) | ![](https://img.shields.io/badge/downloads-0-FFD700?style=flat-square) |
-| [**🔐 PasswordManager**](https://github.com/klondike0x/PasswordManager) | Secure password generator and storage with entropy analysis | C# · WinForms · .NET | ![](https://img.shields.io/github/v/release/klondike0x/PasswordManager?style=flat-square&color=7C3AED) | ![](https://img.shields.io/github/downloads/klondike0x/PasswordManager/total?style=flat-square&color=7C3AED) |
+| [**🚀 ChatGPT Unlimited**](https://github.com/klondike0x/ChatGPT-Unlimited) | Enhances ChatGPT UI and bypasses common frontend restrictions for a smoother experience | JavaScript | ![](https://img.shields.io/github/last-commit/klondike0x/ChatGPT-Unlimited?style=flat-square) | ![](https://img.shields.io/github/stars/klondike0x/ChatGPT-Unlimited?style=flat-square&label=Stars) |
 
 💬 **Featured in the Flowseal community:** [FluxRoute](https://github.com/Flowseal/zapret-discord-youtube/discussions/12980) · [zapret2-youtube-discord](https://github.com/Flowseal/zapret-discord-youtube/discussions/16260)
 
 </div>
+
+---
+
+<details>
+<summary>📦 Archived projects</summary>
+
+- [**PasswordManager**](https://github.com/klondike0x/PasswordManager) — secure password generator and storage built with C# and Windows Forms.
+
+</details>
 
 ---
 
@@ -72,12 +80,6 @@
 <div align="center">
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=klondike0x&theme=tokyonight" /><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klondike0x&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=klondike0x&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0D1117" />
 
 </div>
 
