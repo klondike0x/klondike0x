@@ -32,7 +32,6 @@
 | [**🛡️ Zapret-Hub**](https://github.com/klondike0x/zapret-hub-continuation) | Unified Windows app for DPI bypass management: Zapret, Zapret 2 and helper components in one window, continuation of Goshkow/Zapret-Hub | Python · PySide6 · Web UI · Zapret2 | ![](https://img.shields.io/github/v/release/klondike0x/zapret-hub-continuation?style=flat-square&color=00D9FF) | [![](https://img.shields.io/badge/Download-Latest-00D9FF?style=flat-square)](https://github.com/klondike0x/zapret-hub-continuation/releases/latest) ![](https://img.shields.io/github/downloads/klondike0x/zapret-hub-continuation/total?style=flat-square&color=00D9FF) |
 | [**⚡ zapret2-youtube-discord**](https://github.com/klondike0x/zapret2-youtube-discord) | Portable Windows toolkit with ready-to-use BAT profiles powered by the official Zapret2 engine | Lua · BAT · Zapret2 · WinDivert | ![](https://img.shields.io/github/v/release/klondike0x/zapret2-youtube-discord?style=flat-square&color=00D9FF) | [![](https://img.shields.io/badge/Download-Latest-00D9FF?style=flat-square)](https://github.com/klondike0x/zapret2-youtube-discord/releases/latest) ![](https://img.shields.io/github/downloads/klondike0x/zapret2-youtube-discord/total?style=flat-square&color=00D9FF) |
 | [**🌐 mtp4tg-proxies**](https://github.com/klondike0x/mtp4tg-proxies) | Auto-updated MTProto proxies aggregator (SoliSpirit + @mtp4tg) with GitHub Pages UI | Python · GitHub Actions · HTML | ![](https://img.shields.io/github/actions/workflow/status/klondike0x/mtp4tg-proxies/update.yml?style=flat-square&label=Status&color=00D9FF) | ![](https://img.shields.io/github/stars/klondike0x/mtp4tg-proxies?style=flat-square&label=Stars&color=00D9FF) |
-| [**🚀 ChatGPT Unlimited**](https://github.com/klondike0x/ChatGPT-Unlimited) | Enhances ChatGPT UI and bypasses common frontend restrictions for a smoother experience | JavaScript | ![](https://img.shields.io/github/last-commit/klondike0x/ChatGPT-Unlimited?style=flat-square) | ![](https://img.shields.io/github/stars/klondike0x/ChatGPT-Unlimited?style=flat-square&label=Stars) |
 
 💬 **Featured in the Flowseal community:** [FluxRoute](https://github.com/Flowseal/zapret-discord-youtube/discussions/12980) · [zapret2-youtube-discord](https://github.com/Flowseal/zapret-discord-youtube/discussions/16260)
 
@@ -41,8 +40,9 @@
 ---
 
 <details>
-<summary>📦 Archived projects</summary>
+<summary>📦 Archived projects </summary>
 
+- [**ChatGPT Unlimited**](https://github.com/klondike0x/ChatGPT-Unlimited) — UI-enhancement userscript for ChatGPT, built with JavaScript.
 - [**PasswordManager**](https://github.com/klondike0x/PasswordManager) — secure password generator and storage built with C# and Windows Forms.
 
 </details>
